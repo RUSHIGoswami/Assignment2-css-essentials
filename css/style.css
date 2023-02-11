@@ -51,7 +51,7 @@ main .main-text {
 main .main-text .div-text {
   margin-bottom: 1.2em;
 }
-main .main-text:last-child {
+main .main-text .div-text:last-child {
   margin-bottom: 3em;
 }
 main .bordered-text {

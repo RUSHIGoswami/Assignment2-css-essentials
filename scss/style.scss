@@ -90,10 +90,10 @@ main{
     .div-text{
       margin-bottom: 1.2em;
       // Using pseudo selector :last-child for selcting the last p element of every section element. (main element).
-    }
-    &:last-child {
+      &:last-child {
         margin-bottom: 3em;
       }
+    }
   }
 
   //  Giving bordered-text section a width.
